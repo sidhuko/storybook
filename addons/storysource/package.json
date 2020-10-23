@@ -41,7 +41,7 @@
     "loader-utils": "^2.0.0",
     "prettier": "~2.0.5",
     "prop-types": "^15.7.2",
-    "react": "^16.9.17",
+    "react": "^16.14.0",
     "react-syntax-highlighter": "^12.2.1",
     "regenerator-runtime": "^0.13.3"
   },
